@@ -36,9 +36,9 @@
 
 **[Hello Microverse]** is a projecct to help work with tools like linters and others.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="html"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="css"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
