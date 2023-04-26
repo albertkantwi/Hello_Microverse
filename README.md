@@ -177,9 +177,9 @@ Example:
 
 👤 **Albert Antwi**
 
-- GitHub: [albertkantwi](https://github.com/githubhandle)
-- Twitter: [@Albert_KAntwi](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [albertkantwi](https://github.com/albertkantwi)
+- Twitter: [@Albert_KAntwi](https://twitter.com/Albert_KAntwi?t=cdjVl5R1Vagv3xGkhypQmA&s=08)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/albert-antwi-557291263)
 
 👤 **Author2**
 
