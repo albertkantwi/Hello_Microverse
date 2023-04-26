@@ -34,7 +34,7 @@
 
 
 
-**[Hello Microverse]** is a projecct to help work with tools like linters and others.
+**[Hello Microverse]** is a projecct to help work with tools like lint
 
 ## 🛠 Built With <a name="html"></a>
 
