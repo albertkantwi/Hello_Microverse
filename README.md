@@ -44,13 +44,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +144,7 @@ Example:
 - Twitter: [@Albert_KAntwi](https://twitter.com/Albert_KAntwi?t=cdjVl5R1Vagv3xGkhypQmA&s=08)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/albert-antwi-557291263)
 
-👤 **Author2**
+👤 **Albert Antwi**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -158,15 +152,9 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
