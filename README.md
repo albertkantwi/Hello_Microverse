@@ -40,16 +40,6 @@
 
 ### Tech Stack <a name="css"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
